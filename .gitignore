@@ -8,3 +8,5 @@ __pycache__/
 # Virtual environment
 venv/
 .env
+Waste Management System.h5
+*.h5
