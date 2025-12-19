@@ -1,12 +1,10 @@
-# Ignore ML model files
 *.h5
-
-# Python cache
+*.pt
+*.pth
+*.joblib
+*.venv/
 __pycache__/
-*.pyc
-
-# Virtual environment
-venv/
+.ipynb_checkpoints/
 .env
-Waste Management System.h5
-*.h5
+.DS_Store
+.vscode/
